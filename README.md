@@ -7,4 +7,4 @@ so i had a look for a solution, they all involved using JRunner to patch your SM
 
 thought " could probably do better " .. and well here it is "better" xS
 
-add DVDRegionPatch.xex to any plugin entry in your launch.ini file. 
+add DVDRegionPatch.xex to any plugin entry in your launch.ini or JPRC.ini file.
